@@ -12,7 +12,7 @@ A Flutter application that provides current weather information and forecasts fo
 
 ## Screenshots
 
-![App Screenshot](lib/assets/image.png)
+<img src="lib/assets/image.png" style="width:300px">
 
 ## Getting Started
 
